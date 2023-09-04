@@ -7,3 +7,4 @@ for i in range(0,chislo):
         mass.append(strk)
     else:
         mass.append(i)
+print(mass)
